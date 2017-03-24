@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Convert Tool App Android</string>
+    <string-array name="unit_distance">
+        <item>Meter</item>
+        <item>Mile</item>
+        <item>Cm</item>
+        <item>Inch</item>
+        <item>Yd</item>
+    </string-array>
+    <string-array name="unit_weight">
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Kíp</item>
+        <item>Microgram</item>
+        <item>Miligram</item>
+        <item>Pound</item>
+        <item>Tạ</item>
+        <item>Tấn</item>
+    </string-array>
+    <string-array name="unit_temperature">
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="unit_speed">
+        <item>Km/h</item>
+        <item>m/s</item>
+    </string-array>
+</resources>
